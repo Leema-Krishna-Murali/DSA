@@ -1,5 +1,5 @@
 # DSA
-Data structures and algorithms - Leetcode
+Data structures and algorithms in Python - Leetcode, CodeChef and Coding Ninjas
 
 # Repository Contents
 **Brute Force Solutions:** Straightforward solutions to programming problems, suitable for understanding basic concepts and problem-solving techniques.
